@@ -10,5 +10,6 @@ Advent of Code 2023 solutions written in Rust.
 | [Day 4: Scratchcards](https://adventofcode.com/2023/day/4)                    | [✓](src/bin/day4.rs) |
 | [Day 5: If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5) | [✓](src/bin/day5.rs) |
 | [Day 6: Wait For It](https://adventofcode.com/2023/day/6)                     | [✓](src/bin/day6.rs) |
+| [Day 7: Camel Cards](https://adventofcode.com/2023/day/7)                     | [✓](src/bin/day7.rs) |
 
 
