@@ -12,3 +12,4 @@ Advent of Code 2023 solutions written in Rust.
 | [Day 6: Wait For It](https://adventofcode.com/2023/day/6)                     | [✓](src/bin/day6.rs) |
 | [Day 7: Camel Cards](https://adventofcode.com/2023/day/7)                     | [✓](src/bin/day7.rs) |
 | [Day 8: Haunted Wasteland](https://adventofcode.com/2023/day/8)               | [✓](src/bin/day8.rs) |
+| [Day 9: Mirage Maintenance](https://adventofcode.com/2023/day/9)              | [✓](src/bin/day9.rs) |
